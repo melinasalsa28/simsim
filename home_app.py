@@ -14,7 +14,6 @@ def show_home():
 
     if selected == "Beranda":
         st.title("Beranda")
-        st.image("https://i.pinimg.com/736x/7c/6c/4e/7c6c4e22d219fab7941b63e24d6e81c5.jpg", width=300)
         st.subheader("Selamat Datang di Aplikasi Farm Flow")
         st.write("Kelola peternakan kelinci Anda dengan mudah dan efisien.")
 
