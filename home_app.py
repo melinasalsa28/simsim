@@ -706,7 +706,7 @@ def show_home():
     #isi lap perubahan modal
         elif sub_menu_lapkeu == "Laporan Perubahan Modal":
                 st.subheader("LAPORAN PERUBAHAN MODAL")
-                st.markdown("**Periode yang berakhir 30 April 2025**")
+                st.markdown("Periode yang berakhir 30 April 2025")
 
                 data_perubahan_modal = [
                     ("Modal Awal 31 Maret", 162_277_000),
