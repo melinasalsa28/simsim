@@ -16,7 +16,7 @@ def show_home():
         st.title("Beranda")
         st.subheader("Selamat Datang di Aplikasi Farm Flow")
         st.image("https://asset.kompas.com/crops/NLWjVDejksnADFEqKYshuqOyi7I=/0x0:1000x667/750x500/data/photo/2023/01/21/63cb51180cb07.jpg")
-        st.write("Kelola peternakan kelinci Anda dengan mudah dan efisien.")
+        
 
     with st.sidebar:
         if selected == "Profil":
